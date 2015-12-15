@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: "Skepticism can be a changing agent, or it can be poisonous and block any form or progress or openness. Be skeptical, but don't be idiot."
-datePublished: '2015-12-15T19:09:37.548Z'
-dateModified: '2015-12-15T19:09:07.393Z'
+datePublished: '2015-12-15T19:11:23.459Z'
+dateModified: '2015-12-15T19:11:21.180Z'
 title: 'Skepticism: A Double Edge Sword'
 author: []
 sourcePath: _posts/2015-12-15-skepticism-a-double-edge-sword.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: skepticism-a-double-edge-sword/index.html
+_type: Article
 
 ---
 **Be skeptical**, but don't be automatic in
