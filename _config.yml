@@ -1,0 +1,28 @@
+name: fcarreno
+favicon: null
+layout_spectrum: 0.43667928874492645
+typography_spectrum: 0.49349344288930297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5639656726270914
+  lightness: 0.4671864998526871
+  saturation: 0.9071391806937754
+  rhythmicContrast: 0.2082920502871275
+purpose: []
