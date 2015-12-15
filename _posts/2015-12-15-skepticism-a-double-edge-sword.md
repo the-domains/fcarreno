@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Skepticism can be a changing agent, or it can be poisonous and block any form or progress or openness. Be skeptical, but don't be idiot."
-datePublished: '2015-12-15T19:16:04.177Z'
-dateModified: '2015-12-15T19:15:56.513Z'
+datePublished: '2015-12-15T19:18:37.915Z'
+dateModified: '2015-12-15T19:18:33.453Z'
 title: 'Skepticism: A Double Edge Sword'
 author: []
 sourcePath: _posts/2015-12-15-skepticism-a-double-edge-sword.md
@@ -42,10 +42,6 @@ curious. Skepticism is an amazing tool with the power of transforming
 people's lives and the whole world. However, being skeptical about something
 without curiosity is pointless. It is incomplete. Be thorough and make sure
 that when you show your skepticism, you also present your curiosity in order to
-advance knowledge. If you want to summarize the whole idea in one punch line:
-
-> **_**_Be skeptical, but don't be an idiot_**_**
-
-
+advance knowledge. If you want to summarize the whole idea in one punch line: **_**_Be skeptical, but don't be an idiot_**_**
 
 [0]: https://www.youtube.com/watch?v=DghckPVIQ_A
