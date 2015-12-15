@@ -2,17 +2,36 @@
     <channel>
         <title><![CDATA[Francisco Carreño]]></title>
         <description><![CDATA[Francisco Carreño]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fcarreno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 19:11:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 19:15:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fcarreno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Skepticism: A Double Edge Sword]]></title>
-            <description><![CDATA[<article><h1>Skepticism: A Double Edge Sword</h1><p>Be skeptical, but don't be automatic in
-your rejection. You might enter an absurdly state of denial.</p></article>]]></description>
-            <link>undefinedskepticism-a-double-edge-sword/index.html</link>
+            <description><![CDATA[<article><h1>Skepticism: A Double Edge Sword</h1><p>Be skeptical, but don't be automatic in your rejection. You might enter an absurd state of denial. Be skeptical, but be willing to test your
+own skepticism without looking for self-confirmation, nor praising for your
+ego. Be skeptical, but be humble. Embrace the
+possibility of being wrong as an opportunity to increase your knowledge,
+appreciate life, and grow your mind and soul. Be skeptical, but be constructive. The fact
+that you might not believe something does not entitle you to disrespect those
+who believe different. You would be amazed if you practiced more empathy than
+trying to prove your point. Be skeptical, but don't use your skepticism
+as a tool to justify your laziness to learn, or as way to avoid the work that
+is required to test your point. If you are not willing to find out whether you
+are right or whether you might have to learn something, don’t even bother to
+manifest your skepticism. It will be a total waste of time. Be skeptical, but be self-aware, since your
+lack of capability or understanding does not equal that the object, product,
+achievement or service you are skeptical about is not real. It might be totally
+real despite your comprehension. Using skepticism as a way to hide
+ignorance makes the person who tries to do it look like an idiot. Be skeptical, but remain
+curious. Skepticism is an amazing tool with the power of transforming
+people’s lives and the whole world. However, being skeptical about something
+without curiosity is pointless. It is incomplete. Be thorough and make sure
+that when you show your skepticism, you also present your curiosity in order to
+advance knowledge. If you want to summarize the whole idea in one punch line:</p></article>]]></description>
+            <link>https://thegrid.ai/fcarreno/skepticism-a-double-edge-sword/index.html</link>
             <guid isPermaLink="false">452a1ec4-5116-42da-8341-73ae65246a26</guid>
-            <pubDate>Tue, 15 Dec 2015 19:11:23 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 19:14:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
